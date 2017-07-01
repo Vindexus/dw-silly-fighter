@@ -1,0 +1,15 @@
+{
+  "name": "dw-silly-fighter",
+  "version": "0.0.1",
+  "description": "A testing module for ModularDungeonWorld to change the figher and make it sillier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin \"Vindexus\" Kierans",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4"
+  }
+}
